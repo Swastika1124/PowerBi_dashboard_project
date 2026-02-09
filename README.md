@@ -6,3 +6,6 @@ I developed a comprehensive project in Power BI.This process involved several st
 
 ## Dashboard Interaction
 <a href="https://github.com/Swastika1124/PowerBi_dashboard_project/blob/main/E-commerce%20sales%20performance%20%20review%20dashboard.pbix">View Dashboard</a>
+
+## Report File
+<a href="https://github.com/Swastika1124/PowerBi_dashboard_project/blob/main/Report%20file%20of%20E-commerce%20sales%20performance%20review.pdf">View Report</a>
